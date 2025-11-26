@@ -2,6 +2,6 @@
 
 # Changelog
 
-### 40918cf - docs: update README for 3bde825
+### ec069b7 - docs: update README for 40918cf
 **Author:** Saiful Islam
 **Files:** README.md
