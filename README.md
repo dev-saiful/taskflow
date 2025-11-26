@@ -2,6 +2,6 @@
 
 # Changelog
 
-### ff99566 - docs: update README for 5c7adab
+### 99728a6 - docs: update README for ff99566
 **Author:** Saiful Islam
 **Files:** README.md
