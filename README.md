@@ -2,6 +2,6 @@
 
 # Changelog
 
-### a200cf6 - docs: update README for 523f990
+### 2d28f6e - docs: update README for a200cf6
 **Author:** Saiful Islam
 **Files:** README.md
