@@ -2,6 +2,6 @@
 
 # Changelog
 
-### a325e0b - docs: update README for 5d9458c
+### 3bde825 - docs: update README for a325e0b
 **Author:** Saiful Islam
 **Files:** README.md
