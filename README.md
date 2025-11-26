@@ -1,22 +1,16 @@
 <!-- SMARTDOCS:BEGIN -->
 # Project Documentation
 
-> Delete changelog from README
-
-Removed changelog section from README.
+> docs: update README for 8c6a9c8
 
 <!-- SMARTDOCS:BEGIN -->
 # Commit Changes
 
-> Delete changelog from README
-
-Removed changelog section from README.
+> docs: update README for 8c6a9c8
 
 # Changelog
 
-### 8c6a9c8 - Delete changelog from README
-
-Removed changelog section from README.
+### c39a4b5 - docs: update README for 8c6a9c8
 **Author:** Saiful Islam
 **Files:** README.md
 
