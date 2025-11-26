@@ -2,6 +2,6 @@
 
 # Changelog
 
-### 81499d9 - docs: update README for e2d571b
+### 523f990 - docs: update README for 81499d9
 **Author:** Saiful Islam
 **Files:** README.md
