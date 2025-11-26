@@ -2,6 +2,6 @@
 
 # Changelog
 
-### 549e5ed - docs: update README for f5b34b3
+### 08b6ad7 - docs: update README for 549e5ed
 **Author:** Saiful Islam
 **Files:** README.md
