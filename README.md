@@ -2,6 +2,6 @@
 
 # Changelog
 
-### ec069b7 - docs: update README for 40918cf
+### 2e51743 - docs: update README for ec069b7
 **Author:** Saiful Islam
 **Files:** README.md
