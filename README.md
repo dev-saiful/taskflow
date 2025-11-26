@@ -1,16 +1,16 @@
 <!-- SMARTDOCS:BEGIN -->
 # Project Documentation
 
-> docs: update README for ffa33fc
+> docs: update README for 504266c
 
 <!-- SMARTDOCS:BEGIN -->
 # Commit Changes
 
-> docs: update README for ffa33fc
+> docs: update README for 504266c
 
 # Changelog
 
-### 504266c - docs: update README for ffa33fc
+### b20d14e - docs: update README for 504266c
 **Author:** Saiful Islam
 **Files:** README.md
 
