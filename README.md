@@ -2,6 +2,6 @@
 
 # Changelog
 
-### 40b170d - Update description metadata
+### bfc0b0b - docs: update README for 40b170d
 **Author:** Saiful Islam
-**Files:** app/layout.tsx
+**Files:** README.md
