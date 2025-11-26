@@ -2,6 +2,6 @@
 
 # Changelog
 
-### e02bca6 - docs: update README for 30ff394
+### a0337df - docs: update README for e02bca6
 **Author:** Saiful Islam
 **Files:** README.md
