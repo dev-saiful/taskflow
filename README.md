@@ -2,6 +2,6 @@
 
 # Changelog
 
-### 2e68fbe - docs: update README for 0f60b48
+### ef5c33b - docs: update README for 2e68fbe
 **Author:** Saiful Islam
 **Files:** README.md
