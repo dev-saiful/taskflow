@@ -2,6 +2,6 @@
 
 # Changelog
 
-### 30ff394 - docs: update README for d9d111f
+### e02bca6 - docs: update README for 30ff394
 **Author:** Saiful Islam
 **Files:** README.md
