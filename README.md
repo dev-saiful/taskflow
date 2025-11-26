@@ -2,6 +2,6 @@
 
 # Changelog
 
-### 911500a - docs: update README for 468b253
+### e2d571b - docs: update README for 911500a
 **Author:** Saiful Islam
 **Files:** README.md
