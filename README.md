@@ -2,6 +2,6 @@
 
 # Changelog
 
-### bfc0b0b - docs: update README for 40b170d
+### 468b253 - docs: update README for bfc0b0b
 **Author:** Saiful Islam
 **Files:** README.md
