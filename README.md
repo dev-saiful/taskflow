@@ -2,6 +2,6 @@
 
 # Changelog
 
-### c6e3bc5 - docs: update README for 09b520f
+### f5b34b3 - docs: update README for c6e3bc5
 **Author:** Saiful Islam
 **Files:** README.md
