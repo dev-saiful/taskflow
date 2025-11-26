@@ -2,6 +2,6 @@
 
 # Changelog
 
-### 6dd140b - docs: update README for 40736b4
+### 563b524 - docs: update README for 6dd140b
 **Author:** Saiful Islam
 **Files:** README.md
