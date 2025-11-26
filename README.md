@@ -1,16 +1,16 @@
 <!-- SMARTDOCS:BEGIN -->
 # Project Documentation
 
-> docs: update README for a90f95d
+> docs: update README for 36c62be
 
 <!-- SMARTDOCS:BEGIN -->
 # Commit Changes
 
-> docs: update README for a90f95d
+> docs: update README for 36c62be
 
 # Changelog
 
-### 36c62be - docs: update README for a90f95d
+### 1a7d08d - docs: update README for 36c62be
 **Author:** Saiful Islam
 **Files:** README.md
 
