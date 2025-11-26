@@ -2,6 +2,6 @@
 
 # Changelog
 
-### 2e51743 - docs: update README for ec069b7
+### cd5ee0a - docs: update README for 2e51743
 **Author:** Saiful Islam
 **Files:** README.md
