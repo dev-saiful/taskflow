@@ -2,6 +2,6 @@
 
 # Changelog
 
-### 5afe385 - docs: update README for dd1a4e4
+### db121d9 - docs: update README for 5afe385
 **Author:** Saiful Islam
 **Files:** README.md
